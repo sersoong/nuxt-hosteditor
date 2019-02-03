@@ -1,4 +1,4 @@
-# nuxt-hostmanager
+# nuxt-hosteditor
 
 > A simple host file editor
 
